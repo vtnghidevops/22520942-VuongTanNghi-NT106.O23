@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Vuong Tan Nghi",
+    "ID": 22520942,
+    "phoneNumber": "0812977410",
+    "Grade1": 9,
+    "Grade2": 9,
+    "Grade3": 9,
+    "AverageGrade": 9
+  },
+  {
+    "Name": "Nguyen Anh",
+    "ID": 22520912,
+    "phoneNumber": "0123456789",
+    "Grade1": 8,
+    "Grade2": 9,
+    "Grade3": 9,
+    "AverageGrade": 8.67
+  }
+]

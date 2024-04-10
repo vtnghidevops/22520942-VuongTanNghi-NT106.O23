@@ -1,0 +1,47 @@
+[
+  {
+    "Name": "Vuong Tan Nghi",
+    "ID": 22520942,
+    "phoneNumber": "0812977410",
+    "Grade1": 10,
+    "Grade2": 9,
+    "Grade3": 10,
+    "AverageGrade": 9.666667
+  },
+  {
+    "Name": "Vy Dang Thanh Thao",
+    "ID": 22520941,
+    "phoneNumber": "0942235112",
+    "Grade1": 10,
+    "Grade2": 8,
+    "Grade3": 9,
+    "AverageGrade": 9
+  },
+  {
+    "Name": "Oai Qua Thay Oi",
+    "ID": 22520943,
+    "phoneNumber": "0559061679",
+    "Grade1": 10,
+    "Grade2": 8,
+    "Grade3": 9,
+    "AverageGrade": 9
+  },
+  {
+    "Name": "Json",
+    "ID": 22520820,
+    "phoneNumber": "0559069696",
+    "Grade1": 10,
+    "Grade2": 9,
+    "Grade3": 1,
+    "AverageGrade": 6.6666665
+  },
+  {
+    "Name": "Private",
+    "ID": 22520001,
+    "phoneNumber": "0983567891",
+    "Grade1": 10,
+    "Grade2": 9,
+    "Grade3": 1,
+    "AverageGrade": 6.6666665
+  }
+]
